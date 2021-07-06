@@ -1,6 +1,6 @@
 # Hey Everyone, This is Aditya Iyer Ramesh 🙋‍♂️ 
 
-I know that sounds like a pretty strechy name, but yeah you can call me "Aditya".
+I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**.
 
 Before you know more about me, If you're a coffeeholic, then welcome to my club of "coffeestreakers"! I love'em.
 
