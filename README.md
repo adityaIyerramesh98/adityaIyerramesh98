@@ -16,7 +16,7 @@ I'm an Undergrad (**Class of 2020**) who did the _Three Indian Mistakes_ 😅;
 
 After perceiving such blunders, I thought of deviating my attention onto something which involved programming and computations as since childhood computers amused me to the same extent as cartoons did, so that's where I learned about many coding languages let alone C, C++, MATLAB, Python, Julia, Cantera _et cetera_. Now, I deal with them so often, that I slip to check on my friends. 
 
-Talking about my LTCG (_abbr_: **Long-Term-Career-Goals**), my horizons are: 
+Talking about my LTCG (_abbr_: **Long-Term-Career-Goals**), I would march on pursuing a doctorate in fields pertinent to: 
 
   💡 Simulating Nanofluids which potentially diverges the area of Computational Nanotechnology.
   
