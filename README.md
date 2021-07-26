@@ -4,15 +4,15 @@ I know that sounds like a pretty strechy name, but yeah you can call me **"Adity
 
 Before you know more about me, If you're a coffeeholic, then welcome to my club of **"coffeestreakers"**!!
 
-These are some of my _foibles_ A.k.a. (**purest coincidences**) y'all would like to know of me, but yeah it's blatant enough to portray my existence in this quirky forum, If not so for some code :) 
+There are some _foibles_ A.k.a. (**purest coincidences**) I'd like y'all to know of me, but yeah it's blatant enough to portray my preconcieved existence in this geeky forum, If not so for some code :) 
 
-I'm an Undergrad (**Class of 2020**) who did the _Three Indian Mistakes_ 😅;
+I'm that Quirky Indian (**UG Class of 2020**) who did the _Three Indian Mistakes_ 😅;
 
  😁 Did decent at studies (Not great thou)! 
 
- 😁 Did decent math, apart from regression, calculus and combinatorics everything scattered my attention, and somehow I found a path to converge it into _Physics_ and _Chemistry_ 😅 ("**Bonds**", yeah that's what I'm talkin' about)! 
+ 😁 Did decent math, apart from regression, calculus and combinatorics everything scattered my attention, and somehow I found a path to converge it into _QP, QM_ and _Analytical Chemistry_ 😅 ("**Bonds**", yeah that's what I'm talkin' about)! 
 
- 😁 After giving the most coveted **AISSCE**, I too opted for doing the _"Jugaad"_ (**translation**: _figuring out something out of nothing_) with machines, with a process involved, so yeah basically "**Chemical Engineering**" was what I worked my ass of for a quarter of a decade !! 
+ 😁 On giving the most coveted **AISSCE**, I too opted for doing the _"Jugaad"_ (**translation**: _figuring out something out of nothing_) with machines, with a process involved, so yeah basically "**Chemical Engineering**" was what I worked my ass of for a quarter of a decade !! 
 
 After perceiving such blunders, I thought of deviating my attention onto something which involved programming and computations as since childhood computers amused me to the same extent as cartoons did, so that's where I learned about many coding languages let alone C, C++, MATLAB, Python, Julia, Cantera _et cetera_. Now, I deal with them so often, that I slip to check on my friends. 
 
