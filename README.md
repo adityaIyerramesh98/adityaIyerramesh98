@@ -14,7 +14,7 @@ Am a ChemE Undergrad and my current research involves in areas pertinent to:
   
   💡 LES and DNS with low mach and reynold numbers including small scales, FEA using Fluid Mechanics. 
   
-Possessing good working knowledge on wet research with utilization of Softwares, Packages including:
+Possessing good working knowledge on wet research with utilization of Softwares and Packages including:
 
   💡 MATLAB, Python, C, C++ and Runtime Environments like Linux, Ubuntu and Java.
   
