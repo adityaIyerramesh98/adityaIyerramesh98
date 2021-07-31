@@ -1,6 +1,6 @@
-# Hey Everyone, This is Aditya Iyer Ramesh 👋🏼 
+# Hello There 👋🏼 
 
-I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**!!
+This is Aditya Iyer Ramesh, I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**!!
 
 Am a ChemE Undergrad and My LTCG (_abbr_: **Long-Term-Career-Goals**), would tentatively be to march on pursuing a doctorate in fields pertinent to: 
 
