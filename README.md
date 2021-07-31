@@ -2,7 +2,7 @@
 
 This is Aditya Iyer Ramesh, I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**!!
 
-Am a **ChemE Undergrad** and my current research involves in areas pertinent to: 
+Am a **ChemE Undergrad** and my _current research_ involves areas pertinent to: 
 
   💡 **Computational Nanotechnology, Effect of Nanofluids inside HXs using ANSYS.**
 
@@ -16,9 +16,9 @@ Am a **ChemE Undergrad** and my current research involves in areas pertinent to:
   
 Possessing good working knowledge on wet research with utilization of Softwares and Packages including:
 
-  💡 **MATLAB**,**Python**, **C**, **C++** _and_ **Runtime Environments** like **Linux Bash**, **Ubuntu**, **Java** and **GIT Bash**. 
+  💡 **MATLAB**,**Python**, **C**, **C++** _and_ **Runtime Environments** like **Linux Bash**, **Ubuntu**, **Java** _and_ **GIT Bash**. 
   
-  💡 **OpenFOAM**, **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical** for _Pre-Processing_ and **CFD-Post**, **Paraview** for _Post-Processing_ of Simulations.
+  💡 **OpenFOAM**, **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical** for _Pre-Processing_ and **CFD-Post**, **Paraview** for _Post-Processing_ of _Simulations_.
   
   💡 **OriginPro** _and_ **Aspen Hysys Plus V11.0** _for_ **Data Processing** _and_ **PFD Designing**.
   
