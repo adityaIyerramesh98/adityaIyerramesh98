@@ -26,7 +26,7 @@ Learning HPC and ML Packages which would be implemented in due course of time, e
 
   💡 **OpenMPI**, **CUDA (GPU)** _and_ **Massively Parallel Computations** _(Falling short of a SP, ready for intern)_
   
-  💡 **SciML**, **Deep Neural Networsk (DNNs)**, **Convolution Neural Networks (CNNs)**, **Physics Informed Neural Networks (PINNs)**, **Generative Adversarial Networks (GANs)**, **Variational Auto Encoders (VAEs)** _and_ **Bayesian Statistics**.
+  💡 **SciML**, **Deep Learning (DL)**, **Convolution Neural Networks (CNNs)**, **Physics Informed Neural Networks (PINNs)**, **Generative Adversarial Networks (GANs)**, **Variational Auto Encoders (VAEs)** _and_ **Bayesian Statistics**.
   
   💡 **Deep Text Mining** for creating up a _linked database_ to store _research articles, arXiv publications_ and _citational articles_.  
 
