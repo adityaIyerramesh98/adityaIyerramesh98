@@ -2,7 +2,7 @@
 
 This is Aditya Iyer Ramesh, I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**!!
 
-Apart from coffee, anthying which related _"Nanotechnology with Space propulsion/Space research"_ excites me to delve more onto the same. Majored as a **ChemE Undergrad**, my _current research_ involves areas pertinent to: 
+Apart from coffee, anthying which relates to _"Nanotechnology with Space propulsion/Space research"_ excites me on delving more into the same. Majored as a **ChemE Undergrad**, my _current research_ involves areas pertinent to: 
 
   💡 **Computational Nanotechnology.**
 
