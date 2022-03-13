@@ -2,17 +2,19 @@
 
 This is Aditya Iyer Ramesh, I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya"**!!
 
-Am a **ChemE Undergrad** and my _current research_ involves areas pertinent to: 
+Apart from coffee, anthying which related _"Nanotechnology with Space propulsion/Space research"_ excites me to delve more onto the same. Majored as a **ChemE Undergrad**, my _current research_ involves areas pertinent to: 
 
-  💡 **Computational Nanotechnology, Effect of Nanofluids inside HXs using ANSYS.**
+  💡 **Computational Nanotechnology.**
 
-  💡 **Turbulence Reacting and Shear Flows (Turbulence Modelling), Multiphase Flows and High Schmidt Number Scalar Mixing.**   
+  💡 **Multiphase Flows largely based on evaporation-condensation heat transfer in Air-breathing Engines. 
+  
+  💡 **Turbulence Reacting Flows (Turbulence Modelling).**   
  
-  💡 **Compressible Flows, Gas-Liquid Flows, Gas-Particle Flows and Subsonic and Supersonic Noise Simulations (A Retrospective Analysis).** 
+  💡 **Compressible Flows with Low mach, Gas-Liquid Flows, Computational Heat Transfer, Supersonic and Hypersonic Flows.** 
   
-  💡 **MD Simulations using KMC Method, Chemical Reaction Engineering and Kinetic Theory.**
+  💡 **High-fidelity DNS using Low reynolds number.**
   
-  💡 **LES and DNS with low mach and reynold numbers including small scales, FEA using Fluid Mechanics.** 
+  💡 **MD Simulations largely using Kinetic Monte Carlo method assisted with some "py" packages.**
   
 Possessing good working knowledge on wet research with utilization of Softwares and Packages including:
 
@@ -20,9 +22,9 @@ Possessing good working knowledge on wet research with utilization of Softwares 
   
   💡 **OpenFOAM**, **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical** for _Pre-Processing_ and **CFD-Post**, **Paraview** for _Post-Processing_ of _Simulations_.
   
-  💡 **OriginPro** _and_ **Aspen Hysys Plus V11.0** _for_ **Data Processing** _and_ **PFD Designing**.
+  💡 **OriginPro** _and_ **Aspen Hysys Plus V11.0** _for_ **Plant Designing and Data Processing**.
   
-Learning HPC and ML Packages which would be implemented in due course of time, entails:
+ HPC and ML Packages entails as:
 
   💡 **OpenMPI**, **CUDA (GPU)** _and_ **Massively Parallel Computations** _(Falling short of a SP, ready for intern)_
   
