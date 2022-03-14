@@ -1,6 +1,6 @@
 # Hello There 👋🏼 
 
-This is Aditya (Iyer) Ramesh, I know that sounds like a pretty strechy name, but yeah you can call me **"Aditya or AD"**!!
+This is Aditya!
 
 Apart from _coffee_, anthying which relates to _"Nanotechnology with Space propulsion/Space research"_ excites me on delving more into the same. Majored as a **ChemE Undergrad**, my _current research_ involves areas pertinent to: 
 
@@ -16,28 +16,14 @@ Apart from _coffee_, anthying which relates to _"Nanotechnology with Space propu
   
   💡 **MD Simulations largely using Kinetic Monte Carlo method assisted with some "py" packages.**
   
- Languages known (not usual):
+Languages (Computing): **MATLAB**,**Python**, **C** _and_ **C++**. 
 
-  💡 **MATLAB**,**Python**, **C** _and_ **C++**. 
-
- Environments:
+Environments: **Linux Bash**, **Ubuntu**, **OpenFOAM** _and_ **GIT**. 
   
-  💡 **Linux Bash**, **Ubuntu**, **OpenFOAM** _and_ **GIT**. 
+Packages: **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical**, **CFD-Post**, **Paraview** and **Tecplot** for _Processing and Simulations_. Also, **OriginPro** and **Aspen Hysys Plus V11.0** for _Plant Designing and Data Assimilation_.
   
-  Packages Include: 
+HPC Tools: **OpenMP** and **CUDA (GPU)/MPI** 
   
-  💡 **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical**, **CFD-Post**, **Paraview** and **Tecplot** for _Processing and Simulations_.
+ML Packages: **SciML**, **Deep Learning (DL)** and **Physics Informed Neural Networks (PINNs)**. Also learning **Deep Text Mining** for creating up a _linked database_ to store _research articles, arXiv publications_ and _citational articles_.
   
-  💡 **OriginPro** and **Aspen Hysys Plus V11.0** for _Plant Designing and Data Assimilation_.
-  
- HPC and ML Packages entails as:
-
-  💡 **OpenMPI**, **CUDA (GPU)** _and_ **Massively Parallel Computations** _(Falling short of a SP, ready for intern)_
-  
-  💡 **SciML**, **Deep Learning (DL)** and **Physics Informed Neural Networks (PINNs)**.
-  
-  💡 **Deep Text Mining** for creating up a _linked database_ to store _research articles, arXiv publications_ and _citational articles_.
-  
-  Fun fact: 
-  
-  🤟🏻 Low-fi music and Acoustic music addict, a Biographic bibliophile.
+**A Fun fact about me**: _A crazy cusp of Low-fi and Acoustic music with a bibliophilic sway._
