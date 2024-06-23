@@ -41,11 +41,13 @@ I primarily use **OpenFoam** for most of my requirements, but I also utilize **M
 I am eager to assimilate and broaden my horizons in the fields entailing but not limited to Aero-thermal Sciences, Thermal-Flow Engineering, Web Development, and Machine Learning.
 
 ## Contact Me to know more
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaramesh98)
-[![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iyer.aditya98@yahoo.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://adityaiyerramesh98.github.io)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyer.aditya98@yahoo.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaiyerramesh98.github.io)
 
-_Glad that you visited my profile! Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, go ahead and shoot me out a mail._
+---
+
+^(_Glad that you visited my profile! Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, go ahead and shoot me out a mail._)
 
 
