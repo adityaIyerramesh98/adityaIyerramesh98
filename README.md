@@ -1,29 +1,52 @@
-# Hello There 👋🏼 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5A32F7&random=false&width=580&height=80&lines=Hello+There!+Thanks+for+stopping+by.+I'm+Aditya.)](https://git.io/typing-svg)
 
-This is Aditya!
+## About Me
+A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and pave remedies complex problems.
 
-Apart from _coffee_, anthying which relates to _"Nanotechnology with Space propulsion/Space research"_ excites me on delving more into the same. Majored as a **ChemE Undergrad**, my _current research_ involves areas pertinent to: 
+## Fields of Interest
+- Aero-thermal Sciences
+- Computational Engineering
+- Backend Web Development
+- ML Ops
+- Process Engineering
 
-  💡 **Computational Nanotechnology and Classical CFD.**
+## Languages Adept in
+- Python
+- C
+- C++
+- Julia
 
-  💡 **Multiphase Flows largely based on evaporation-condensation heat transfer in Air-breathing Engines.** 
-  
-  💡 **Turbulence Reacting Flows (Turbulence Modelling).**   
- 
-  💡 **Compressible Flows with Low mach, Gas-Liquid Flows, Computational Heat Transfer, Supersonic and Hypersonic Flows.** 
-  
-  💡 **High-fidelity DNS using Low reynolds numbers.**
-  
-  💡 **MD Simulations largely using Kinetic Monte Carlo method assisted with some "py" packages.**
-  
-Languages (Computing): **MATLAB**,**Python**, **C** _and_ **C++**. 
+## Currently Learning
+- Java
+- JavaScript
 
-Environments: **Linux Bash**, **Ubuntu**, **OpenFOAM** _and_ **GIT**. 
-  
-Packages: **ANSYS Workbench**, **ANSYS Fluent**, **ANSYS Mechanical**, **CFD-Post**, **Paraview** and **Tecplot** for _Processing and Simulations_. Also, **OriginPro** and **Aspen Hysys Plus V11.0** for _Plant Designing and Data Assimilation_.
-  
-HPC Tools: **OpenMP** and **CUDA (GPU)/MPI** 
-  
-ML Packages: **SciML**, **Deep Learning (DL)** and **Physics Informed Neural Networks (PINNs)**. Also learning **Deep Text Mining** for creating up a _linked database_ to store _research articles, arXiv publications_ and _citational articles_.
-  
-**A Fun fact about me**: _A crazy cusp of Low-fi and Acoustic music with a bibliophilic sway._
+## Thermal + CFD Software
+I primarily use **OpenFoam** for most of my requirements, but I also utilize **Matlab** and **ANSYS** for efficient pre and post processing models.
+
+## Frameworks I Use
+- **NumPy** and **Pandas** (for Python)
+- **Django** (for Python builds)
+- **TensorFlow** and **Scikit-Learn** (majorly for MLOps and Data Science projects)
+- Currently learning **Node.js** and **Express.js** to integrate with JavaScript for future projects.
+
+## Process Tools (Core Domain)
+- **Aspen V11**
+- **HYSYS**
+- **AVEVA Pro**
+- **DWSIM** (for backend checks)
+
+## Aspirations
+I am eager to assimilate and broaden my horizons in the fields entailing but not limited to Aero-thermal Sciences, Thermal-Flow Engineering, Web Development, and Machine Learning.
+
+---
+
+## Contact Me to know more
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-profile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle-profile)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website-url)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, don't hesitate to reach out.
+
+
