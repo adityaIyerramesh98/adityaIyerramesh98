@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7CB34&random=false&width=580&height=80&lines=Hello+There!+Thanks+for+stopping+by.+I'm+Aditya.)](https://git.io/typing-svg)
 
----
-
 ## About Me
 A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and pave remedies complex problems.
 
@@ -48,6 +46,6 @@ I am eager to assimilate and broaden my horizons in the fields entailing but not
 
 ---
 
-^(_Glad that you visited my profile! Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, go ahead and shoot me out a mail._)
+_^^Glad that you visited my profile! Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, go ahead and shoot me out a mail.^^_
 
 
