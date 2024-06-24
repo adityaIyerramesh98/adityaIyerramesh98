@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=4517F7&background=8241FF00&random=false&width=500&height=80&lines=Hey+There!!;Thanks+for+stopping+by.+I'm+Aditya.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=4517F7&background=8241FF00&random=false&width=4800&height=80&lines=Hey+There!!;Thanks+for+stopping+by.+I'm+Aditya.)](https://git.io/typing-svg)
 
 ----
 
 ## _About Me_
-A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and pave remedies complex problems.
+A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and paving remedies to complex problems.
 
 ## _Fields of Interest_
 - Aero-thermal Sciences
@@ -23,7 +23,7 @@ A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltze
 - JavaScript
 
 ## _Thermal + CFD Software Packages_
-I primarily use **OpenFoam** for most of my requirements, but I also utilize **Matlab** and **ANSYS** for efficient pre and post processing models.
+I primarily use **OpenFoam** for most of my requirements, but I also utilize **Matlab** and **ANSYS** for efficient pre and post processing of models.
 
 ## _Frameworks I Use_
 - **NumPy** and **Pandas** (for Python)
