@@ -3,7 +3,7 @@
 ----
 
 ## _About Me_
-A Chemical Engineer turned Data-Science Engineer (Intern). My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and paving remedies to complex problems.
+A Chemical Engineer turned Aspiring Data-Science Engineer. My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and paving remedies to complex problems.
 
 ## _Fields of Interest_
 - Aero-thermal Sciences
