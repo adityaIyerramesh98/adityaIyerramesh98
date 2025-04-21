@@ -1,44 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=800&color=4517F7&background=8241FF00&random=false&width=500&height=80&lines=Hey+There!!;Thanks+for+stopping+by.+I'm+Aditya.)](https://git.io/typing-svg)
+### Hey there 👋
 
-----
+_Aditya_ this side and 
+* :telescope: I'm PhD Aspirant _-cum-_ Full-time Researcher in developing, setting-up and building (code) solvers (packages) for complex scientific problems. Main arsenal is Compressible CFD.
+* :runner: I do compound movements and shuttling (🏸) to stay in shape :muscle:
 
-## _About Me_
-A Chemical Engineer turned Aspiring Data-Science Engineer. My journey has waltzed me through various fields, and I passionately value about integrating my knowledge in Chemical Engineering with Data Science to troubleshoot and paving remedies to complex problems.
+### Tech Stack
 
-## _Fields of Interest_
-- Aero-thermal Sciences
-- Computational Engineering
-- Backend Web Development
-- ML Ops
-- Process Engineering
+* Programming Languages: Python, C & C++, Julia, Fortran, MPI, MATLAB and Java (Pipeline)
+* Libraries: PyTorch, TensorFlow, JAX, MLFlow, PySpark, Sklearn, NumPy, SciPy, Pandas, Optuna
+* DevOps tools: Git, Singularity, Docker, CI/CD, Azure, VScode, Linux, Jupyter, Colab
+* ML Architectures: CNN, LSTM, GANs, Transformers, Diffusion model, VAE, GNN, SAM
 
-## _Languages Adept in_
-- Python
-- C
-- C++
-- Julia
+## CFD Software Packages
+* Opensource: OpenFoam (:code:)and FDM
+* Project Based (UDF): (🚗) ANSYS (CFD, WorkBench, Fluent, ICEM, CFX & Icepak), GridPro, StarCCM+, Converge, Paraview & Blender  
 
-## _Currently Learning_
-- Java
-- JavaScript
 
-## _Thermal + CFD Software Packages_
-I primarily use **OpenFoam** for most of my requirements, but I also utilize **Matlab** and **ANSYS** for efficient pre and post processing of models.
-
-## _Frameworks I Use_
-- **NumPy** and **Pandas** (for Python)
-- **Django** (for Python builds)
-- **TensorFlow** and **Scikit-Learn** (majorly for MLOps and Data Science projects)
-- Currently learning **Node.js** and **Express.js** to integrate with JavaScript for future projects.
-
-## _Process Tools_ (Core Domain)
-- **Aspen V11**
-- **HYSYS**
-- **AVEVA Pro**
-- **DWSIM** (for backend checks)
-
-## _Long-Term_
-I am eager to assimilate and broaden my horizons in the fields entailing but not limited to Aero-thermal Sciences, Thermal-Flow Engineering, Web Development, and Machine Learning.
 
 ## _Contact Me to know more_
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98)
