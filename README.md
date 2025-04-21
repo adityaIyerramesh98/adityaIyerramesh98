@@ -2,7 +2,7 @@
 
 _Aditya_ this side and, 
 
-* :telescope: I'm a PhD Aspirant _-&-_ Full-time Researcher in developing, setting-up and building (code) solvers (packages) to solve complex scientific problems in my main arsenal of Compressible CFD.
+* :telescope: I'm a PhD Aspirant _-&-_ Full-time Researcher in developing, setting-up and building (code) packages (solvers) to solve complex scientific problems in my main arsenal of Compressible CFD.
 * :runner: I do compound movements and shuttling 🏸 to stay in shape :muscle:
 
 ### Tech Stack
@@ -13,15 +13,15 @@ _Aditya_ this side and,
 * ML Architectures: CNN, LSTM, GANs, Transformers, Diffusion model, VAE, GNN, SAM
 
 ### CFD Software Packages
-* Opensource: OpenFoam (:code:)and FDM
+* Opensource: OpenFoam and FDM
 * Project Based (UDF): ✈️ ANSYS (CFD, WorkBench, Fluent, ICEM, CFX & Icepak), GridPro, StarCCM+, Converge, Paraview & Blender  
 
-### Chemical (Plant) Softwares :industry:
+### Chemical (Plant) Softwares 🧪
 * Commercial: ASPEN (v11) and ASPEN HYSYS
 * Opensource: DWSIM
 
 
-### _Hit Me Up_
+### _Hit Me Up_!!
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaramesh98)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyer.aditya98@yahoo.com)
