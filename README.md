@@ -1,4 +1,5 @@
-### Hey there 👋 _Aditya_ this side 
+### Hey there 👋 _Aditya_ this side,
+
 
 * :telescope: I'm a PhD Aspirant _-&-_ Full-time Researcher in developing, setting-up and building (code) packages (solvers) to solve complex scientific problems in my main arsenal of Compressible CFD.
 * :runner: I do compound movements and shuttling 🏸 to stay in shape :muscle:
