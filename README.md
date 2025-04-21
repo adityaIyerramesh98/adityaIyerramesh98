@@ -3,7 +3,7 @@
 _Aditya_ this side and, 
 
 * :telescope: I'm a PhD Aspirant _-&-_ Full-time Researcher in developing, setting-up and building (code) solvers (packages) to solve complex scientific problems in my main arsenal of Compressible CFD.
-* :runner: I do compound movements and shuttling (🏸) to stay in shape :muscle:
+* :runner: I do compound movements and shuttling 🏸 to stay in shape :muscle:
 
 ### Tech Stack
 
@@ -12,7 +12,7 @@ _Aditya_ this side and,
 * DevOps tools: Git, Singularity, Docker, CI/CD, Azure, VScode, Linux, Jupyter, Colab
 * ML Architectures: CNN, LSTM, GANs, Transformers, Diffusion model, VAE, GNN, SAM
 
-## CFD Software Packages
+### CFD Software Packages
 * Opensource: OpenFoam (:code:)and FDM
 * Project Based (UDF): ✈️ ANSYS (CFD, WorkBench, Fluent, ICEM, CFX & Icepak), GridPro, StarCCM+, Converge, Paraview & Blender  
 
