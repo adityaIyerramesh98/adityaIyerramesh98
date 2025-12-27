@@ -36,7 +36,7 @@ My long-term goal is to develop **robust, scalable, and physically interpretable
 **Libraries & Frameworks**  
 - PyTorch, TensorFlow, JAX  
 - Scikit-learn, NumPy, Pandas  
-- PySpark, Optuna  
+- PySpark and mostly Optuna (for some cases)  
 
 **Architectures & Paradigms**  
 - Physics-Informed Neural Networks (PINNs)  
@@ -74,7 +74,7 @@ My long-term goal is to develop **robust, scalable, and physically interpretable
 
 - **Sampling & Bayesian Optimization:**  
   - SALib  
-  - BoTorch (in progress)
+  - BoTorch (learning in-progress)
 
 Applications which I premptively deal with encompass probabilistic analysis and uncertainty propagation in large-scale flamelet and reacting-flow models.
 
@@ -137,11 +137,10 @@ Primitive Focus here is on regime identification and data-driven closure develop
 
 ---
 
-## We can always catch-up, If there's something interesting to ponder upon
+## _And hey can always catch-up, If there's something interesting to ponder upon_ 😄
 
-- **GitHub:** https://github.com/adityaIyerramesh98  
-- **Kaggle:** https://www.kaggle.com/adityaramesh98  
-- **Email:** iyer.aditya98@yahoo.com  
-- **Website:** https://adityaiyerramesh98.github.io  
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaramesh98) 
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadityaramesh777@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaiyerramesh98.github.io)
 ---
