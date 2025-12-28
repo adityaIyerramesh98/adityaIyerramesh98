@@ -1,4 +1,8 @@
+<div align="center">
+  
 ### Hey there 👋 _Aditya_ this side,
+
+</div>
 
 :telescope: I am a **Graduate Student in Aeronautics and Astronautics** with a strong research focus on **computational combustion, high-speed reacting flows, and data-driven modeling of complex thermochemical systems**. My work lies at the intersection of **physics-based solvers, chemical kinetics, turbulence–chemistry interaction, and scientific machine learning**, with extensive use of **HPC environments and open-source combustion frameworks**.
 
