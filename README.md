@@ -1,8 +1,7 @@
 ### Hey there 👋 _Aditya_ this side,
 
-
-* :telescope: I am a **Graduate Student in Aeronautics and Astronautics** with a strong research focus on **computational combustion, high-speed reacting flows, and data-driven modeling of complex thermochemical systems**. My work lies at the intersection of **physics-based solvers, chemical kinetics, turbulence–chemistry interaction, and scientific machine learning**, with extensive use of **HPC environments and open-source combustion frameworks**.
-* :runner: I do compound movements and shuttling 🏸 to stay in shape :muscle:
+👉 :telescope: I am a **Graduate Student in Aeronautics and Astronautics** with a strong research focus on **computational combustion, high-speed reacting flows, and data-driven modeling of complex thermochemical systems**. My work lies at the intersection of **physics-based solvers, chemical kinetics, turbulence–chemistry interaction, and scientific machine learning**, with extensive use of **HPC environments and open-source combustion frameworks**.
+👉 :runner: I do compound movements and shuttling 🏸 to stay in shape :muscle:
 
 ---
 
@@ -139,8 +138,9 @@ Primitive Focus here is on regime identification and data-driven closure develop
 
 ## _And hey can always catch-up, If there's something interesting to ponder upon_ 😄
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaramesh98) 
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadityaramesh777@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaIyerramesh98)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaramesh98)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadityaramesh777@gmail.com)  
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityaiyerramesh98.github.io)
+
 ---
