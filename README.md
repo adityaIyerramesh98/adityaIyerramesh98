@@ -3,9 +3,9 @@ font=JetBrains+Mono&
 size=22&
 duration=3000&
 pause=1000&
-color=00FF9C&
+color=00FF00&
 background=0D1117&
-width=700&
+width=720&
 lines=Initializing+profile...;
 Ciao+👋+_Aditya_+this+side;
 Graduate+Researcher+%7C+Computational+Science" />
