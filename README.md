@@ -1,19 +1,14 @@
-<p align="left">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono&
-    size=22&
-    duration=3000&
-    pause=1200&
-    color=00FF9C&
-    background=0D1117&
-    left=true&
-    vCenter=true&
-    width=600&
-    lines=Ciao+👋+_Aditya_+this+side"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?
+font=JetBrains+Mono&
+size=22&
+duration=3000&
+pause=1000&
+color=00FF9C&
+background=0D1117&
+width=700&
+lines=Initializing+profile...;
+Ciao+👋+_Aditya_+this+side;
+Graduate+Researcher+%7C+Computational+Science" />
 
 
 :telescope: I am a **Graduate Student in Aeronautics and Astronautics** with a strong research focus on **computational combustion, high-speed reacting flows, and data-driven modeling of complex thermochemical systems**. My work lies at the intersection of **physics-based solvers, chemical kinetics, turbulence–chemistry interaction, and scientific machine learning**, with extensive use of **HPC environments and open-source combustion frameworks**.
