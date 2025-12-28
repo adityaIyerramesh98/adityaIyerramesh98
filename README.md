@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&background=0D1117&width=760&lines=Initializing+profile...;Ciao+👋+_Aditya_+this+side;Graduate+Student" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&background=0D1117&width=760&lines=Initializing+profile...;Ciao+👋+_Aditya_+this+side;Graduate+Researcher+%7C+Computational+Science" />
+
 
 
 
