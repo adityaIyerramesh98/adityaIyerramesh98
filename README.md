@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&background=0D1117&width=760&lines=Initializing+my+profile...;Ciao!+Aditya+this+side.;Graduate+Student+in+Aerospace+Engineering...;Specializing+in+Combustion+%7C+ML+%7C+HPC+%7C+Comp.+Sciences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF00&background=0D1117&width=760&lines=Initializing+my+profile...;Ciao!+Aditya+this+side.;A+Graduate+Student+in+Aerospace+Engineering.;Specializing+in+Combustion+%7C+ML+%7C+HPC+%7C+Comp.+Sciences" />
 
 :telescope: I am a **Graduate Student in Aeronautics and Astronautics** with a strong research focus on **computational combustion, high-speed reacting flows, and data-driven modeling of complex thermochemical systems**. My work lies at the intersection of **physics-based solvers, chemical kinetics, turbulence–chemistry interaction, and scientific machine learning**, with extensive use of **HPC environments and open-source combustion frameworks**.
 
